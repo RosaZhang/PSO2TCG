@@ -1,0 +1,4 @@
+PSO2TCG 19-01-20
+
+CardGeneralURLs:
+https://github.com/RosaZhang/PSO2TCG
