@@ -1,9 +1,6 @@
-CHANGELOG DigimonHC plugin
+CHANGELOG PSO2TCG plugin
 
 
 
 --------
 1 beta release public
-
-NEW
-- New set "NEW2"
