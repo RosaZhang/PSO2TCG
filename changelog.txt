@@ -3,4 +3,4 @@ CHANGELOG PSO2TCG plugin
 
 
 --------
-1 beta release public
+Episode Oracle Cards
