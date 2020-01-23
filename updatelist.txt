@@ -1,4 +1,4 @@
-PSO2TCG	01-19-20
+PSO2TCG	01-19-22
 plugins/PSO2TCG/version.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/version.txt	33974
 plugins/PSO2TCG/plugininfo.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/plugininfo.txt	328392
 plugins/PSO2TCG/changelog.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/changelog.txt	5866
@@ -45,11 +45,12 @@ plugins/PSO2TCG/sounds/attack.wav	https://raw.githubusercontent.com/RosaZhang/PS
 plugins/PSO2TCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/sets/general/cardback.jpg	255341
 images/backgrounds/PSO.png	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/images/PSO.png	-9875
 plugins/PSO2TCG/sets/CardDataLegend.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/sets/CardDataLegend.txt	945088
-plugins/PSO2TCG/sets/CardDataStructure.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/sets/CardDataStructure.txt	545955
+plugins/PSO2TCG/sets/CardDataStructure.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/sets/CardDataStructure.txt	784519
 plugins/PSO2TCG/sets/CardDataVol1-1.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/sets/CardDataVol1-1.txt	1903939
 plugins/PSO2TCG/sets/CardDataVol1-2.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/sets/CardDataVol1-2.txt	1518165
 plugins/PSO2TCG/sets/CardDataVol1-3.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/sets/CardDataVol1-3.txt	1640011
 plugins/PSO2TCG/sets/CardDataVol2-1.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/sets/CardDataVol2-1.txt	1232686
 plugins/PSO2TCG/sets/CardDataVol2-2.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/sets/CardDataVol2-2.txt	1359673
+plugins/PSO2TCG/sets/CardDataEpisodeOracle.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/sets/CardDataEpisodeOracle.txt	1162941
 CardGeneralURLs:
 https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/sets/general/
