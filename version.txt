@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>200119</lastupdateYYMMDD>
+<lastupdateYYMMDD>200122</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/updatelist.txt</updateurl>
 <message>New Cards Change log: https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/changelog.txt</message>
