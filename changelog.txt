@@ -3,4 +3,4 @@ CHANGELOG PSO2TCG plugin
 
 
 --------
-Episode Oracle Cards
+Promo Cards (RAW Translation)
