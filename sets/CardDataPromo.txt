@@ -1,0 +1,68 @@
+Name	Set	ImageFile	Cost	ATK	HP	DEF	Class	Type	Text	Color	Script
+Patty	Promo	1-016_pr.png	4	3	4		Hunter	Character/Newman	On Play: Choose 1 OFF character and deal 2 damage to it.	Red	/cr90
+Lisa	Promo	1-025_pr.png	6	5	2		Ranger	Character/CAST	[Raid] (When this character is played, it will be played as ON).	Blue	
+Afin	Promo	1-026_pr.png	2	3	2		Ranger	Character/Newman	On Play: All players draw 1 card.	Blue	/cr90
+Tea	Vol1-1	1-036_pr.png	1	1	1		Force	Character/Newman	On Play: You may pay 2 PP, if you do, at the beginning of your next turn, choose 1 of your opponent’s characters and freeze it (Cannot attack).	Yellow	/cr90
+Gene	Vol1-1	1-044_pr.png	4	5	3		Fighter	Character/Human	This card cannot be chosen by the effects of your opponent’s cards.	Red	/cr90
+Melphonsina	Vol1-1	1-053_pr.png	3	3	2		Techer	Character/Newman	[Drop] (Activated when you place this card into Trash from deck during your opponent's turn): You may add this to your hand, if you do, discard a card.	Yellow	/cr90
+Rappy (Halloween)	Vol1-2	2-020_pr.png	1	0	2			Character/Extraspecies Enemy	At the end of your turn: You may choose a card from your Trash and put it back under your deck. When this card is destroyed: You may draw a card.	White	/cr90
+Rappy (Chrismast)	Vol1-2	2-020_pr2.png	1	0	2			Character/Extraspecies Enemy	At the end of your turn: You may choose a card from your Trash and put it back under your deck. When this card is destroyed: You may draw a card.	White	/cr90
+Rappy (ARKS)	Vol1-2	2-020_pr3.png	1	0	2			Character/Extraspecies Enemy	At the end of your turn: You may choose a card from your Trash and put it back under your deck. When this card is destroyed: You may draw a card.	White	/cr90
+Rappy (Easter Egg)	Vol1-2	2-020_pr4.png	1	0	2			Character/Extraspecies Enemy	At the end of your turn: You may choose a card from your Trash and put it back under your deck. When this card is destroyed: You may draw a card.	White	/cr90
+Rappy (Summer)	Vol1-2	2-020_pr5.png	1	0	2			Character/Extraspecies Enemy	At the end of your turn: You may choose a card from your Trash and put it back under your deck. When this card is destroyed: You may draw a card.	White	/cr90
+Fourier	Vol1-2	2-022_pr.png	3	4	2		Ranger	Character/CAST	On Play: Look at the top 2 cards of your deck, choose a <Ranger> from among them and add it to your hand and put the rest to the bottom of your deck in any order.	Blue	/cr90
+Quna	Vol1-2	2-024_pr.png	2	0	2			Character/Human/Idol	Main - Discard a card from your hand -> Search your deck for an Active card with the same cost as the card that was discarded and add it to your hand, shuffle your deck. This can only be activated once per turn. This character cannot attack.	White	/cr90
+Revelle	Vol1-2	2-027_pr.png	3	1	5		Fighter	Character/Newman	This character gets +5 ATK while in the back row.	Red	/cr90
+Seraphy	Vol1-2	2-030_pr.png	2	0	2			Character/Human/Administrator/Staff	At the end of your turn: Choose up to 2 of your PP and turn them ON. This character cannot attack.	White	/cr90
+Small Shadow Lilipa Tribe	Vol1-2	2-032_pr.png	1	0	3			Character/Lilipa Tribe	ON -> OFF - Choose one of your characters, and it gets +1/+1 during your turn.	White	/cr90
+PP Conversion	Vol1-2	2-074_pr.png	2				Techer	Active/Skill	Main - Look at the top 2 cards of your deck, put 1 card into PP and the rest into Trash.	Yellow	
+Dark Falz Elder	Vol1-3	3-008_pr.png	13	13	13			Character / Dark Falz	On Play: Put all [Falz Arm] from your Trash into the field. This character cannot be chosen by your opponent’s effect and cannot be destroyed by your opponent’s effect. While this character is in play, your Player cannot be damaged. At the end of your turn: Choose 1 <Darker> from Trash and put it on the bottom of your deck, if you do, choose one of your opponent’s character, active, or item and destroy it.	Black	/cr90
+Dragon Follower Quna	Vol1-3	3-015_pr.png	6	3	2		Fighter	Character / Human / Council of Six	On Play: Choose 1 of your opponent’s character with cost 6 or more and destroy it.	Red	/cr90
+Claris Claes	Vol1-3	3-018_pr.png	3	4	2		Force	Character / Human / Council of Six	The opponent’s Player other than <Boss> loses their ability while this character is in play.	Yellow	/cr90
+Battle Fest Patty & Tea	Vol1-3	3-024_pr.png	3	3	3		Fighter/Force	Character / Newman / Battle Fest	When this card or another <Battle Fest> character is played: Draw 1 card, choose a card from your hand and put it at the bottom of your deck. Rule: This card is considered as [Patty] and [Tea] while playing this card from effects.	White	/cr90
+Try That Song Again	Vol1-3	3-052_pr.png	1					Active / Song	Main: Shuffle this card and your hand back to your deck. Then, draw the same number of cards returned. If you have a [Quna] on your field, you may choose to return any number of cards from your hand instead. [Try That Song Again] can only be played once per turn.	White	
+Impact Slider	Vol1-3	3-058_pr.png	2				Ranger/Gunner	Active / PA / Assault Rifle	Main: Choose up to 1 of your <Ranger> or <Gunner>, turn them ON, they get [Sniper] and +1 ATK. During your next start phase, they cannot turn ON. If you do not have a character equipped with <Assault Rifle> you cannot play this card.	Blue	
+Long Awaited Arrival 	Vol1-3	3-073_pr.png	3					Active / Event	Choose up to 2 black character cards from your Trash and add them to your hand.	Black	
+Luther	Vol2-1	4-014_pr.png	4	3	4			Character / Newman / Photoner	On Play: Choose 2 cards from your opponent’s Trash and remove them, if you do, draw a card.	White	/cr90
+Azanami	Vol2-1	4-015_pr.png	3	3	3		Braver	Character / Human	When your PP changes from OFF to ON: You may draw a card. This effect is only activated once per turn.	Red	/cr90
+Io	Vol2-1	4-016_pr.png	2	1	4		Braver	Character / Dewman	Reduce the cost of playing <Braver> cards with cost 4 or more by 1 PP.	Blue	/cr90
+Sara	Vol2-1	4-017_pr.png	4	5	4		Hunter	Character / Human	On Play: You may choose 1 of your removed cards and return it to your hand. When this card is destroyed: Choose a card other than itself in your Trash and remove it.	Red	/cr90
+Guilty Break	Vol2-1	4-037_pr.png	2				Hunter	Active / PA / Sword	Choose 1 of your opponent’s OFF characters and 1 of your OFF <Hunter>. Deal 3 damage to the chosen opponent character and turn the chosen <Hunter> ON. That character cannot attack this turn.	Red	
+Katana Combat	Vol2-1	4-051_pr.png	2				Braver	Active / Skill / Grant	Main: Grant this card to your Player. When a Red <Braver> character comes into play: You may pay 2 PP. If you do, turn that character ON. Main, 2PP: Choose 1 of your opponent’s characters and deal X damage to it. X is equal to the number of your <Braver> in play. Then, put this card into your Trash.	Red	
+Rapid Shoot	Vol2-1	4-053_pr.png	2				Braver	Active / Skill	Main: Choose 1 opponent and deal 1 damage to it. Then, choose up to 3 of your PP and turn them ON.	Blue	
+Torrential Arrow	Vol2-1	4-054_pr.png	5				Braver	Active / PA / Bullet Bow	Deal 3 damage to all of your opponent’s characters either in the front row or back row.	Blue	
+Temptation of Power	Vol2-1	4-055_pr.png	4					Active / Skill	Choose 1 of your or your opponent’s character, and it gains +4/-2 during this turn. Then, choose up to 3 cards of the Player’s Trash that their character was chosen by this effect and remove them.	White	
+Claris Claes Clone	Vol2-2	5-029_pr.png	2	2	2			Character / Human	On Play: Put all of your “Claris Claes Clone” into your field from Trash. When this character deals damage to the opponent’s Player, the damage taken is put into the removed zone instead.	Black	/cr90
+Long Time No See!	Vol2-2	5-046_pr.png	7					Active / Event	If there is a “Echo” on your field, the cost of playing this card is reduced by 3 PP. Put a “Zeno” from your hand into the field. If there is a character on your opponent’s field that you are attacking, during this turn, that character’s ATK is reduced by 5.	Blue	
+You Can Take a Rest 	Vol2-2	5-048_pr.png	4					Active / Event	Choose 1 of your and your opponent’s characters and remove them.	White	
+Mitarashi 	Promo	PR-016.png	4	5	3		Braver	Character / Human	On Play: Choose one of your PP in your PP Zone and turn it ON.	Red	/cr90
+Mitarashi (Full)	Promo	PR-016_pr.png	4	5	3		Braver	Character / Human	On Play: Choose one of your PP in your PP Zone and turn it ON.	Red	/cr90
+Tetra 	Promo	PR-017.png	4	3	4		Fighter	Character / Newman	If this character is in the back row, it gets +1/+3	Red	/cr90
+Tetra (Full)	Promo	PR-017_pr.png	4	3	4		Fighter	Character / Newman	If this character is in the back row, it gets +1/+3	Red	/cr90
+Ichika	Promo	PR-018.png	4	3	4		Gunner	Character / Deuman	On Play: Choose any number of characters in your opponent’s front row and deal 3 damage to them.	Black	/cr90
+Ichika (Full)	Promo	PR-018_pr.png	4	3	4		Gunner	Character / Deuman	On Play: Choose any number of characters in your opponent’s front row and deal 3 damage to them.	Black	/cr90
+Magical Robo Zekuto	Promo	PR-019.png	4	2	6		Bouncer	Character / CAST	On Play: This character cannot be chosen as an attack target and effects by your opponent until the start of your next turn.	Yellow	/cr90
+Magical Robo Zekuto	Promo	PR-019_pr.png	4	2	6		Bouncer	Character / CAST	On Play: This character cannot be chosen as an attack target and effects by your opponent until the start of your next turn.	Yellow	/cr90
+Makino	Promo	PR-020.png	3	3	3		Techer	Character / Newman	On Play: You may search your deck for up to one “Dolce” and add it to your hand.	Yellow	/cr90
+Makino	Promo	PR-020_pr.png	3	3	3		Techer	Character / Newman	On Play: You may search your deck for up to one “Dolce” and add it to your hand.	Yellow	/cr90
+Dolce	Promo	PR-021.png	3	3	3		Ranger	Character / CAST	While you control a “Makino” on your field, the cost of playing this card is reduced by 1PP.	Blue	/cr90
+Dolce	Promo	PR-021_pr.png	3	3	3		Ranger	Character / CAST	While you control a “Makino” on your field, the cost of playing this card is reduced by 1PP.	Blue	/cr90
+Phantasy Star Thanksgiving 2019 Regius	Promo	PR-030.png	1	1	2		Hunter	Character /  CAST / Thanksgiving / Council or Six	This character gains +1/+1 while you control other characters with <Thanksgiving>.	Red	/cr90
+Phantasy Star Thanksgiving 2019 Maria	Promo	PR-031.png	2	2	2		Hunter	Character /  CAST / Thanksgiving / Council or Six	This character gains +1/+1 while you control other characters with <Thanksgiving>.	Red	/cr90
+Phantasy Star Thanksgiving 2019 Casra	Promo	PR-033.png	3	3	3		Techer	Character /  Newman / Thanksgiving / Council or Six	This character gains +1/+1 while you control other characters with <Thanksgiving>.	Yellow	/cr90
+Phantasy Star Thanksgiving 2019 Zeno	Promo	PR-034.png	4	4	4		Ranger	Character /  Human / Thanksgiving / Council or Six	This character gains +1/+1 while you control other characters with <Thanksgiving>.	Blue	/cr90
+Phantasy Star Thanksgiving 2019 Claris Claes	Promo	PR-035.png	5	5	5		Force	Character /  Human / Thanksgiving / Council or Six	This character gains +1/+1 while you control other characters with <Thanksgiving>.	Yellow	/cr90
+Mini Matoi	Promo	PR-036.png	2	2	3		Force	Character / Human	None	Yellow	/cr90
+Mini Lisa	Promo	PR-037.png	3	3	4		Ranger	Character / CAST	None	Blue	/cr90
+Phantasy Star Thanksgiving 2019 Huey	Promo	PR-039.png	6	6	6		Fighter	Character /  Human / Thanksgiving / Council or Six	This character gains +1/+1 while you control other characters with <Thanksgiving>.	Red	/cr90
+Lawson x PSO2 2019 Matoi	Promo	PR-040.png	4	6	3		Force	Character / Human	On Play: All players discard one card and draw one card.	Yellow	/cr90
+Lawson x PSO2 2019 Lappie & Lilypa	Promo	PR-047.png	2				ALL	Active	From your discard, add up to one Super Dimension Enemy and one Lilypa Tribe card to your hand.	White	
+Happy Halloween Matoi	Promo	PR-054.png	4	3	5		Force	Character / Human	When it appears: Your opponent chooses one of the following, and that ability is activated. "Draw two cards, then return your hand to the bottom of your deck.". "The opponent discards two cards and draws one.	White	/cr90
+Merry Christmas Quna	Promo	PR-055.png	4	0	4			Character / Human / Idol	On Play: Your opponent may draw up to two cards. While this character is in play, all friendly characters enter play with [ON].	White	/cr90
+Merry Christmas Patty & Tea	Promo	PR-056.png	3	4	4		Fighter / Force	Character / Newman	On Play: Your opponent may shuffle the discarded cards into their hand or into their deck. [Main]: Look at the top of your deck and return it to the top or bottom of your deck. Rules: This card is treated as "patty" or "tier" during the game.	White	/cr90
+Settler's Duties	Promo	PR-057.png	4					Active	Activate by discarding 1 Card: Choose 1 card of the same type (Character, Item, Active) as the card discarded when this card is activated and destroy it.	White	
+Mini Quna	Promo	PR-058.png	2	0	4			Character / Human / Idol	On Play: Choose an opponent other than PLAYER, which can't attack while this character is in play.	White	/cr90
+Mini Xiao	Promo	PR-059.png	1	0	1			Character	On Play / [ON>OFF]: You may remove two discarded cards. If you do, draw one.	White	/cr90
+Mini Io	Promo	PR-060.png	1	1	1		Braver	Character / Deuman	On Play / (ON>OFF): Reveal the top card of your deck, and if it is the active card for Braver, add it to your hand.	Blue	/cr90
+Mini luther	Promo	PR-061.png	3	3	3			Character / Newman / Photoner	On Play: Choose a total of two cards from all discards and remove them.	White	/cr90
+Mini 2nd generation Clarise Claes	Promo	PR-062.png	3	2	3		Force	Character / Human / Council of Six	On Play: If there is no other ally character, choose 1 opponent's character and deal 3 damage to it. Rule: Treat this card as "Matoi" during the game	Yellow	/cr90
