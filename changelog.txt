@@ -4,3 +4,4 @@ CHANGELOG PSO2TCG plugin
 
 --------
 Promo Cards (RAW Translation)
+Tokens added
