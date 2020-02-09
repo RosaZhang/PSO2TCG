@@ -1,0 +1,7 @@
+<uninstall>
+
+<dateYYMMDD>200209</dateYYMMDD>
+
+<removepath>sets/CardDataLegend.txt</removepath>
+
+</uninstall>
