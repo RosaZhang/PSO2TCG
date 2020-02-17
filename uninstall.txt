@@ -2,6 +2,6 @@
 
 <dateYYMMDD>200216</dateYYMMDD>
 
-<removepath>sets/CardDataPromo.txt</removepath>
+<removepath>sets/CardDataLegend.txt</removepath>
 
 </uninstall>
