@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>200216</lastupdateYYMMDD>
+<lastupdateYYMMDD>200217</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/updatelist.txt</updateurl>
 <message>Added Tokens Change log: https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/changelog.txt</message>
