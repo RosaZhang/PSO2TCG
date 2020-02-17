@@ -1,4 +1,4 @@
-PSO2TCG	02-06-20
+PSO2TCG	02-16-20
 plugins/PSO2TCG/version.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/version.txt	34651
 plugins/PSO2TCG/plugininfo.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/plugininfo.txt	328392
 plugins/PSO2TCG/uninstall.txt	https://raw.githubusercontent.com/RosaZhang/PSO2TCG/master/uninstall.txt	9314
