@@ -1,7 +1,7 @@
 <uninstall>
 
-<dateYYMMDD>200217</dateYYMMDD>
+<dateYYMMDD>200516</dateYYMMDD>
 
-<removepath>sets/CardDataLegend.txt</removepath>
+<removepath>sets/CardDataStructure.txt</removepath>
 
 </uninstall>
